@@ -1,0 +1,16 @@
+V1
+V2
+V3
+V4
+V5
+V6
+RA
+RL
+LL
+LA
+Lead I
+Lead II
+Lead III
+aVL
+aVF
+aVR
